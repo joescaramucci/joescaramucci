@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joescaramucci, a 62 years old geek from Italy.
+- 👋 Hi, I’m @joescaramucci, a 65 years old geek from Italy.
 - 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning C, Python and more others programming languages.
 - 💞️ I’m looking to collaborate on any Open Source Project.
